@@ -143,5 +143,7 @@ g<-group_by(f, activity, subject)%>%summarize(featuremean=mean(featuremean), fea
                                                             total_acc_y_mean=mean(total_acc_y_mean), total_acc_y_SD=mean(total_acc_y_SD), 
                                                             total_acc_z_mean=mean(total_acc_z_mean), total_acc_z_SD=mean(total_acc_z_SD))
 
-write.csv(f, file="g.csv")
+write.csv(g, file="g.csv")
+write.table(g, file="g.txt")
+
 
