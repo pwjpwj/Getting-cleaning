@@ -7,4 +7,4 @@ f.csv is the first dataset asked for
 
 g.csv is the second datased
 
-run_analysis is the R script I used
+run_analysis.R is the R script I used
