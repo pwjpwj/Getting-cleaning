@@ -1,0 +1,26 @@
+Variables are the same in datased f and g 
+But in dataset g the observations have been sumarized by activity and subject.
+
+
+"subject", It is the id of the subject, goes from 1 to 30
+"activity", The type of activity. 
+"featuremean", the mean of the feature vector
+"featureSD", the SD of the feature vector
+"body_acc_x_mean", The mean of The acceleration signal from the smartphone accelerometer X axis in standard gravity units 'g'
+"body_acc_x_SD", The standard deviation of The acceleration signal from the smartphone accelerometer X axis in standard gravity units 'g'
+"body_acc_y_mean", The mean of The acceleration signal from the smartphone accelerometer Y axis in standard gravity units 'g'
+"body_acc_y_SD", The standard deviation of The acceleration signal from the smartphone accelerometer Y axis in standard gravity units 'g'
+"body_acc_z_mean", The mean of The acceleration signal from the smartphone accelerometer Z axis in standard gravity units 'g'
+"body_acc_z_SD", The standard deviation of The acceleration signal from the smartphone accelerometer Z axis in standard gravity units 'g'
+"body_gyro_x_mean", The mean of The angular velocity vector measured by the gyroscope for each window sample. The units are radians/second. 
+"body_gyro_x_SD", The standard deviation of The angular velocity vector measured by the gyroscope for each window sample. The units are radians/second. 
+"body_gyro_y_mean", The mean of The angular velocity vector measured by the gyroscope for each window sample. The units are radians/second. 
+"body_gyro_y_SD", The standard deviation of The angular velocity vector measured by the gyroscope for each window sample. The units are radians/second. 
+"body_gyro_z_mean", The mean of The angular velocity vector measured by the gyroscope for each window sample. The units are radians/second. 
+"body_gyro_z_SD", The standard deviation of The angular velocity vector measured by the gyroscope for each window sample. The units are radians/second. 
+"total_acc_x_mean",  the mean of The acceleration signal from the smartphone accelerometer X axis in standard gravity units 'g'. 
+"total_acc_x_SD", the standard deviation of The acceleration signal from the smartphone accelerometer X axis in standard gravity units 'g'.
+"total_acc_y_mean", the mean of The acceleration signal from the smartphone accelerometer Y axis in standard gravity units 'g'. 
+"total_acc_y_SD", the standard deviation of The acceleration signal from the smartphone accelerometer Y axis in standard gravity units 'g'.
+"total_acc_z_mean", the mean of The acceleration signal from the smartphone accelerometer Z axis in standard gravity units 'g'. 
+"total_acc_z_SD", the standard deviation of The acceleration signal from the smartphone accelerometer Z axis in standard gravity units 'g'.
